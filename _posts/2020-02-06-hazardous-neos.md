@@ -5,7 +5,7 @@ image: /img/NEO_picture.jpg
 subtitle: Why that big scary meteor in the news won't kill us all... probably.
 ---
 
-It seems like every month there is at least one news article talking about how an astroid is coming our way. In fact, as I'm writing this, news articles about how the "hazardous" astroid titled _2002 PZ39_ is making a close approach on February 15th. 
+It seems like every month there is at least one news article talking about how an astroid is coming our way. In fact, as I'm writing this, news articles about how the "hazardous" astroid titled "2002 PZ39" is making a close approach on February 15th. 
 
 Before we start freaking out and rioting in the streets, though, let's try to understand just how much trouble we're in. How hazardous is "hazardous"? How close is "close"? Turns out, NASA and other astronomers have a system to how they deem a near-earth object as "potentially hazardous". NASA's Center for Near-Earth Object Studies has all it's data publicly available, and conviniently labels all the stuff it thinks is "potentially hazardous".
 
