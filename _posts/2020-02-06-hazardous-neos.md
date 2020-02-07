@@ -24,3 +24,5 @@ It turns out that there is also a number for how uncertain we are of an orbit, r
 ![alt text](https://github.com/BuildABuddha/hazardous_neos/raw/master/plot_2.png "Orbital Uncertainty of Hazardous and Non-Hazardous Objects")
 
 As you can see, the majority of asteroids we deem hazardous have an orbital uncertainty of zero, which means we can calculate with great certainty whether or not it's going to hit us decades, even perhaps CENTURIES in advance! Now, there is still work to be done on some of them, but it appears that we have paid a lot more attention to the asteroids that scare us just a bit. The label of "potentially hazardous" is, apparently, less a label for asteroids that **will** kill us all, and more being used as a sort of triage system we use on the asteroids that **may** kill us all, so we can figure out if it actually will.   
+
+[Click here to check my work.](https://github.com/BuildABuddha/hazardous_neos "Hazardous NEOs GitHub Repo")
