@@ -71,9 +71,9 @@ social-network-links:
   email: "lmkimsey@gmail.com"
 #  facebook: deanattali
   github: BuildABuddha
-#  twitter: daattali
+ twitter: lawrence_kimsey
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: lawrence-kimsey
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -87,9 +87,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
