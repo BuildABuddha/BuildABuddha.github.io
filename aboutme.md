@@ -18,7 +18,7 @@ While I was a student at Boise State, I got tapped on the shoulder to do an inte
 
 Unfortunately, a combination of mental health and financial issues prevented me from finishing my degree. I'd probably have a degree by now if I had just picked Computer Science from the start... but oh well. Not all those who wander are lost, I guess?
 
-I am currently using Lambda School's Data Science course to help prove that despite my lack of a finished degree, I'm still a worthy a worthy programmer. Might as well put those years of academia to use! 
+I am currently using Lambda School's Data Science course to help prove that despite my lack of a finished degree, I'm still a worthy programmer. Might as well put those years of academia to use! 
 
 ### My Interests
 
