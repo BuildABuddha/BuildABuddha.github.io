@@ -11,6 +11,7 @@ Lambda School is a program that teaches students a few different professions in 
 Every now and then, we get a project to work over the span of a week, rather than a daily assignment. They are either worked on individually or as a team. These are the real showcase pieces from my Lambda School education! I will usually try to write a short blog post to show my work when I'm finished.
 
 [What Makes A Near-Earth Object Hazardous?](https://buildabuddha.github.io/2020-02-06-hazardous-neos/)
+
 Using data exploration and visualization to show how organizations like NASA categorize near-earth objects as "potentially hazardous", and what this label actually means. 
 
 ## Daily Assignments
