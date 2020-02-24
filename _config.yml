@@ -22,8 +22,8 @@ description: The Accomplishments of a Data Scientist
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Lambda School: "aboutme"
-    - Game Modding: "aboutme"
+    - Lambda School: "lambdaschool"
+    - Game Modding: "gamemodding"
   Github: "https://github.com/BuildABuddha"
 
 # Image to show in the navigation bar - image must be a square (width = height)
