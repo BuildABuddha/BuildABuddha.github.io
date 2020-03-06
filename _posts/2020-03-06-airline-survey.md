@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improving Customer Satisfaction in the Airline Industry
-image: /img/NEO_picture.jpg
+image: /img/airplane.jpg
 subtitle: A key driver analysis of airplane passenger survey data.
 ---
 
@@ -53,4 +53,4 @@ Above are visuals showing the impact the model predicted on four different peopl
 
 Of note is that the last four items in the above list were next to inconsequential in importance, at least according to the model. Wi-Fi and pre-flight online boarding were usually the deciding factors, but the top five features in the above list also helped the model decide if a customer would ultimately be satisfied or dissatisfied. 
 
-[Click here to check my work.](https://github.com/BuildABuddha/hazardous_neos "Hazardous NEOs GitHub Repo")
+[Click here to check my work!](https://github.com/BuildABuddha/AirlineSurveyProject "Hazardous NEOs GitHub Repo")
