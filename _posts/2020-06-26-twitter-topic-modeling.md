@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Topic Modeling On Your Twitter Followers
-image: /img/dbscan_0.png
+image: /img/placeholder.png
 subtitle: Creating natural language processing tools for social media engagement analysis
 ---
 
