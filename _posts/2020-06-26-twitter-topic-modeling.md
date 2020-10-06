@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Topic Modeling On Your Twitter Followers
-image: /img/placeholder.png
+image: /img/topic_modeling_icon.jpg
 subtitle: Creating natural language processing tools for social media engagement analysis
 ---
 
@@ -11,7 +11,7 @@ In my case, I got assigned to the development of a website called So-Me. The web
 
 After talking with my teammates, we came up with the idea of using natural language processing to analyze the post that your followers engage with the most. We thought this could be a potentially useful tool for those looking to increase engagement on Twitter, since it could, potentially, tell you what kind of topics would likely lead to more retweets and comments from your followers. It was later decided that the results of this topic modeling process would be displayed on an "analytics" tab, along with other values calculated by the data science team's API.
 
-![alt text](/img/placeholder.png "Placeholder text")
+![alt text](/img/topic_modeling_0.png "Example of topic modeling")
 
 The first major decision we made was to switch the backend API from Flask to FastAPI, a tool that we had been recently introduced to and seemed well suited for our task. Since the existing code base was small, it was not terribly difficult to make the swap and move exiting code over. The second thing we decided on was hosting the API on AWS, something we decided on as a resume-driven development choice. We knew working in AWS at least once would look good in the future, and we might not get the chance again! 
 
@@ -27,7 +27,7 @@ To compensate for this, we had to develop a queue system instead, with the act o
 
 Eventually, we got something working, although in hindsight it would have been better to have designed a worker app with something like Celery that handled this data gathering separate from the API app. We didn't know how to do that at the time, it was something I only learned was an option later.
 
-![alt text](/img/placeholder.png "Placeholder text")
+![alt text](/img/topic_modeling_1.gif "Topic modeling visualisation")
 
 The next step was the actual topic modeling. For this, we used the library Gensim. We had many discussions on what was the best way to present the results, but in the end, we decided on the following:
 
